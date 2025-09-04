@@ -56,7 +56,7 @@ Trước khi sử dụng, bạn cần chuẩn bị:
 1.  **Chạy chương trình:**
     - Mở Termux và chạy lệnh:
       ```bash
-      cd jinro 
+      cd Jinro 
       python main.py
       ```
 
