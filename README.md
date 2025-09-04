@@ -41,7 +41,7 @@ Trước khi sử dụng, bạn cần chuẩn bị:
       apt upgrade -y
       pkg i -y python python-pip openjdk-17 git
       git clone https://github.com/lorem336/Jinro
-      cd jinro
+      cd Jinro
       pip install -r requirements.txt
       ```
 
