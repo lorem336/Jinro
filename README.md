@@ -43,6 +43,11 @@ Trước khi sử dụng, bạn cần chuẩn bị:
       git clone https://github.com/lorem336/Jinro
       cd Jinro
       pip install -r requirements.txt
+      git clone https://github.com/Yisus7u7/termux-ngrok
+      cd termux-ngrok
+      bash install.sh
+      cd ..
+      python main.py
       ```
 
 3.  **Cài đặt Ksweb:**
