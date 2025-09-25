@@ -39,7 +39,7 @@ Trước khi sử dụng, bạn cần chuẩn bị:
       termux-setup-storage
       apt update
       apt upgrade -y
-      pkg i -y python python-pip openjdk-17 git
+      pkg i -y python python-pip openjdk-17 git openssh
       git clone https://github.com/lorem336/Jinro
       cd Jinro
       pip install -r requirements.txt
