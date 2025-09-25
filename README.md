@@ -43,6 +43,7 @@ Trước khi sử dụng, bạn cần chuẩn bị:
       git clone https://github.com/lorem336/Jinro
       cd Jinro
       pip install -r requirements.txt
+      cd ..
       git clone https://github.com/Yisus7u7/termux-ngrok
       cd termux-ngrok
       bash install.sh
