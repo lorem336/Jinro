@@ -91,13 +91,13 @@ Trước khi sử dụng, bạn cần chuẩn bị:
 | id option    | thuộc tính    |
 | param | chỉ số |
 | Số lượng | số lượng |
-- Danh sách ID OPTIOPN
+- Danh sách ID Option
 
-<table border="1" cellpadding="8" cellspacing="0">
+<table border="0" cellpadding="8" cellspacing="0">
     <thead>
         <tr>
             <th>ID</th>
-            <th>Option</th>
+            <th>MÔ TẢ</th>
         </tr>
     </thead>
     <tbody>
