@@ -1,3 +1,16 @@
+<div align="center">
+  
+#  $\color{RED}\Huge{\textsf{Thông báo}}$
+$\color{green}\Huge{\textsf{Cập nhật lớn sắp tới - phiên bản 2.0 của jinro}}$
+</div>
+
+- ##### $\color{green}\Huge{\textsf{Damage gốc, nhiều chức năng}}$
+- ##### $\color{green}\Huge{\textsf{Mượt mà}}$
+- ##### $\color{green}\Huge{\textsf{Hỗ trợ termux và cả ứng dụng điện thoại andorid }}$
+- ##### $\color{green}\Huge{\textsf{Hoàn toàn miễn phí}}$
+- ##### $\color{green}\Huge{\textsf{Dự kiến: 25/12/2025 ra mắt phiên bản jinro-2.0-release-1.0.0}}$
+- ##### $\color{green}\Huge{\textsf{Donate - động lực hoàn thiện trước 25/12/2025 - techcombank: 8663363306 }}$
+
 # Server Ngọc Rồng Online by JINN1368
 
 Được viết bằng Python để giúp quản lý máy chủ game Ngọc Rồng. Công cụ này cung cấp các chức năng cần thiết để vận hành, cấu hình và quản lý người chơi một cách dễ dàng.
