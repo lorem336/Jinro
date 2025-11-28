@@ -34,9 +34,20 @@
 > [!TIP]
 > Sao chép và dán vào termux
 > ```bash
-> clear; pkg update; pkg upgrade -y; pkg install python python-pip -y; for u in "https://github.com/lorem336/Jinro/raw/refs/heads/main/jinro.py" "https://github.com/lorem336/Jinro/raw/refs/heads/main/setup.py" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/termux.txt" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/config.inc.php" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/httpd-ssl.conf" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/httpd.conf" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/.htaccess" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/version.txt" "https://github.com/lorem336/Jinro/raw/refs/heads/main/update.py"; do f=$(basename "$u"); curl -sL "$u" -o "$f" & done; wait; python setup.py; wait; exit
+> clear; pkg update; pkg upgrade -y; pkg install python python-pip -y; for u in "https://github.com/lorem336/Jinro/raw/refs/heads/main/jinro.py" "https://github.com/lorem336/Jinro/raw/refs/heads/main/setup.py" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/termux.txt" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/config.inc.php" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/httpd-ssl.conf" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/httpd.conf" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/.htaccess" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/version.txt" "https://github.com/lorem336/Jinro/raw/refs/heads/main/update.py"; do f=$(basename "$u"); curl -sL "$u" -o "$f" & done; wait; python setup.py
 > ```
 
+> [!CAUTION]
+> Sau khi cài đặt xong hãy mở lại termux và thực hiện các bước sau đây
+> 
+> 1. Chạy lệnh `jinro -start` để cập nhật thêm lần nữa
+> 2. Tiếp theo chạy lệnh `jinro -stop` sau đó chạy lại lệnh `jinro -start`
+> 3. Thực hiện nhập file SQL
+> 4. Chạy lệnh jinro -stop và chạy lại `jinro -start` để khởi động server game
+>
+> Các lần sử dụng sau chỉ cần chạy lệnh `jinro -start`
+> 
+> ĐỊA CHỈ IP CỦA SERVER: `127.0.0.1` - PORT: `14445`
 <div align="center">
   
   # Tài Nguyên
