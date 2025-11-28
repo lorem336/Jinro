@@ -36,6 +36,8 @@
 > ```bash
 > clear; pkg update; pkg upgrade -y; pkg install python python-pip -y; for u in "https://github.com/lorem336/Jinro/raw/refs/heads/main/jinro.py" "https://github.com/lorem336/Jinro/raw/refs/heads/main/setup.py" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/termux.txt" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/config.inc.php" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/httpd-ssl.conf" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/httpd.conf" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/.htaccess" "https://raw.githubusercontent.com/lorem336/Jinro/refs/heads/main/version.txt" "https://github.com/lorem336/Jinro/raw/refs/heads/main/update.py"; do f=$(basename "$u"); curl -sL "$u" -o "$f" & done; wait; python setup.py
 > ```
+> Quá trình cài đặt nếu dừng lại và yêu cầu nhập thì hãy nhập `y`<br>
+> Lấy mã kích hoạt ở đầu trang
 
 > [!CAUTION]
 > Sau khi cài đặt xong hãy mở lại termux và thực hiện các bước sau đây
