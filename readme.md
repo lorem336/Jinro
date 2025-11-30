@@ -40,6 +40,8 @@
 > Lấy mã kích hoạt ở đầu trang
 
 > [!CAUTION]
+> Xóa dữ liệu KSWEB và gỡ cài đặt nếu bạn đã cài trước đó
+> 
 > Sau khi cài đặt xong hãy mở lại termux và thực hiện các bước sau đây
 > 
 > 1. Chạy lệnh `jinro -start` để cập nhật thêm lần nữa
