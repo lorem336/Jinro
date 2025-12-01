@@ -62,8 +62,7 @@
 > - [Tệp SQL](https://github.com/lorem336/Jinro/releases/download/v2.0.0-20251127/jinro.sql)
 > - [MOD APK](https://github.com/lorem336/Jinro/releases/download/v2.0.0-20251127/manhhdc.apk) ( có thể dùng mod khác để thay đổi ip )
 > - Để biết kiến trúc cpu là gì hãy tìm kiếm google với từ khóa `tên máy cpu bit` ví dụ `s25 ultra cpu bit`
-> - Chọn 1 phiên bản termux phù hợp với kiến trúc cpu
+> - Chọn 1 phiên bản termux phù hợp với kiến trúc cpu **Không hoạt động với máy 32bit kiến trúc x86**
 >   - [Termux arm64-v8a](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk)
 >   - [Termux armeabi-v7a](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_armeabi-v7a.apk)
->   - [Termux x86](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_x86.apk)
 >   - [Termux x86_64](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_x86_64.apk)
