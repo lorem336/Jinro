@@ -1,18 +1,14 @@
+> [!CAUTION]
+> 
+> Phiên bản này sẽ không được sẽ không được cập nhật nữa vì một số lý do, nếu bạn muốn trải nghiệm thì vẫn có thể cài đặt và tải như bình thường.
 <div align="center" >
   
+
  # Lấy Mã Kích Hoạt
-  [HSD 3 NGÀY - NHẤN VÀO ĐÂY ĐỂ LẤY MÃ](https://link4m.com/mWamw)
+[HSD 3 NGÀY - NHẤN VÀO ĐÂY ĐỂ LẤY MÃ](https://link4m.com/mWamw)
   
 </div>
 
-- Mua mã kích hoạt
-- Từ 5 máy trở lên giá 10.000 VNĐ 1 máy
-
-| Máy | Giá | Hạn Sử Dụng |
-|-|-|-|
-|1|20.000 VNĐ| 10 Năm |
-|5|50.000 VNĐ| 10 Năm |
-|10|100.000 VNĐ| 10 Năm |
 <div align="center">
   
   # Chi Tiết Cập Nhật
